@@ -1,4 +1,4 @@
-# JarvisMobile
+# JarvisMobile V1.0
 Jarvis Mobile Security Framework - hacking platform for penetration testers and security reseachers !
 ## Features
 ### Recon
