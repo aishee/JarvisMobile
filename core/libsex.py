@@ -62,7 +62,7 @@ def recon_menu():
 	print LB + "| back: Go back to main interpreter          |" + W
 	print LB + "| help: This menu                            |" + W
 	print LB + "+============================================+" + W
-	
+
 def http_menu():
 	print LB + "+============================================+" + W
 	print LB + "|                Http menu                   |" + W
@@ -128,6 +128,7 @@ def main_menu():
 	print G + "| networking: networking part of the tool    |" + B
 	print G + "| http: http part of the tool                |" + B
 	print G + "| exit: exit the tool                        |" + B
+	print G + "|*wifi,networking, root will release in v2.0*|" + B
 	print G + "+============================================+" + B
 
 def network_info():
