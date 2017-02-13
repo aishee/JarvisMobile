@@ -15,3 +15,6 @@ Jarvis Mobile Security Framework - hacking platform for penetration testers and 
 ### HTTP modules
 * webcrawler
 	* crawl websites for external links
+
+### Version 2.0 will add "Wifi, Networking, Root
+### Big Version 3.0 will add Dynamic Analytics.
